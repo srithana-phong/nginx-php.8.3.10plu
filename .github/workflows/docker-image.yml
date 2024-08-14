@@ -28,4 +28,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/srithana-phong/nginx-php8.3.10plu-ptero:8.3.10
+            ghcr.io/srithana-phong/nginx-php.8.3.10plu:8.3.10
