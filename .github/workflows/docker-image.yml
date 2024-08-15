@@ -19,7 +19,7 @@ jobs:
       - uses: docker/login-action@v1
         with:
             registry: ghcr.io
-            username: teeraphatch15224
+            username: srithana-phong
             password: ${{ secrets.GITHUB_TOKEN }}
       - uses: docker/build-push-action@v2
         with:
